@@ -51,6 +51,9 @@ Our OTT platform supports various models: **TVOD**, **SVOD**, **FVOD**, **AVOD**
 - **AVOD**: Ad-supported Video on Demand, comprising an ad-based network to monetize streaming video services.
 - **TVOD**: Transactional Video on Demand, where users pay per view.
 - **SVOD**: Subscription-based Video on Demand, similar to Netflix's subscription model.
+  
+![Watch the video](https://img.youtube.com/vi/j4OLA25ho2U/0.jpg)](https://youtu.be/j4OLA25ho2U)
+
 
 ---
 
